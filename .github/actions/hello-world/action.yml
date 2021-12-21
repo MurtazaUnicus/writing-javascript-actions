@@ -1,4 +1,4 @@
-name: "my hello action"
+name: "hello-action"
 
 description: "say hello with actions"
 
